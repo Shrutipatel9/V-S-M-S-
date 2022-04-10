@@ -1,9 +1,2 @@
-PROJECT WE DEVELOP:
-
-HTML
-CSS
-JAVASCRIPT
-PHP
-MySql
-
-
+Hi There
+C:\Users\Admin\Pictures\sgp\s1.jpg
