@@ -19,17 +19,17 @@ Desktop Web application with phpmyadmin MySQL Server database.
 
 ## Screenshots
 
-![HOME PAGE](https://user-images.githubusercontent.com/77150491/164752516-b0803427-e26d-42de-8ff7-a5c4ad11d62f.jpg)
+[HOME PAGE](https://user-images.githubusercontent.com/77150491/164752516-b0803427-e26d-42de-8ff7-a5c4ad11d62f.jpg)
 
-![LOGIN PAGE](https://user-images.githubusercontent.com/77150491/164753476-ed9ed895-c333-461f-a9e9-3d70c589bf18.jpg)
+[LOGIN PAGE](https://user-images.githubusercontent.com/77150491/164753476-ed9ed895-c333-461f-a9e9-3d70c589bf18.jpg)
 
-![SERVICE REQUEST PAGE](https://user-images.githubusercontent.com/77150491/164754377-e3f0195c-23dc-444b-ac73-b71bade99fda.jpg)
+[SERVICE REQUEST PAGE](https://user-images.githubusercontent.com/77150491/164754377-e3f0195c-23dc-444b-ac73-b71bade99fda.jpg)
 
-![APPOINTMENT PAGE](https://user-images.githubusercontent.com/77150491/164755468-396c028f-73b7-4015-b64e-e839f05c4430.jpg)
+[APPOINTMENT PAGE](https://user-images.githubusercontent.com/77150491/164755468-396c028f-73b7-4015-b64e-e839f05c4430.jpg)
 
-![ORDER PAGE](https://user-images.githubusercontent.com/77150491/164754624-2947b9fe-3b84-462e-97d7-cb627c1b3f80.jpg)
+[ORDER PAGE](https://user-images.githubusercontent.com/77150491/164754624-2947b9fe-3b84-462e-97d7-cb627c1b3f80.jpg)
 
-![PAYMENT PAGE](https://user-images.githubusercontent.com/77150491/164756023-52a41757-d0d5-4648-89a5-23a5a1fdfb6c.jpg)
+[PAYMENT PAGE](https://user-images.githubusercontent.com/77150491/164756023-52a41757-d0d5-4648-89a5-23a5a1fdfb6c.jpg)
 
 
 
