@@ -21,13 +21,9 @@ Desktop Web application with phpmyadmin MySQL Server database.
 
 ![LOGIN PAGE](https://user-images.githubusercontent.com/77150491/164753476-ed9ed895-c333-461f-a9e9-3d70c589bf18.jpg)
 
-
-![ADMIN PAGE](https://user-images.githubusercontent.com/77150491/164754006-bcf742bf-145e-4b39-b9ad-5ed59b163823.jpg)
-
-
 ![SERVICE REQUEST PAGE](https://user-images.githubusercontent.com/77150491/164754377-e3f0195c-23dc-444b-ac73-b71bade99fda.jpg)
 
-![trips](https://raw.githubusercontent.com/aemulare/Vehicle-Management-System/master/doc/VMS-screen-shots/VMS-08-Trips.png)
+![ORDER PAGE](https://user-images.githubusercontent.com/77150491/164754624-2947b9fe-3b84-462e-97d7-cb627c1b3f80.jpg)
 
 [More screen shots](https://github.com/aemulare/Vehicle-Management-System/tree/master/doc/VMS-screen-shots)
 
