@@ -17,6 +17,8 @@ who, when, for what purpose service.
 Desktop Web application with phpmyadmin MySQL Server database.
 
 
+## Screenshots
+
 ![HOME PAGE](https://user-images.githubusercontent.com/77150491/164752516-b0803427-e26d-42de-8ff7-a5c4ad11d62f.jpg)
 
 ![LOGIN PAGE](https://user-images.githubusercontent.com/77150491/164753476-ed9ed895-c333-461f-a9e9-3d70c589bf18.jpg)
@@ -27,6 +29,7 @@ Desktop Web application with phpmyadmin MySQL Server database.
 
 ![ORDER PAGE](https://user-images.githubusercontent.com/77150491/164754624-2947b9fe-3b84-462e-97d7-cb627c1b3f80.jpg)
 
-[PAYMENT PAGE](https://user-images.githubusercontent.com/77150491/164754987-9b0478c6-9a8a-470a-858a-a0843d8d77d8.jpg)
+[PAYMENT PAGE](https://user-images.githubusercontent.com/77150491/164755687-7dd59283-e865-44f4-b137-88bd74cae49c.jpg)
+
 
 
