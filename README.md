@@ -29,7 +29,7 @@ Desktop Web application with phpmyadmin MySQL Server database.
 
 ![ORDER PAGE](https://user-images.githubusercontent.com/77150491/164754624-2947b9fe-3b84-462e-97d7-cb627c1b3f80.jpg)
 
-[PAYMENT PAGE](https://user-images.githubusercontent.com/77150491/164755687-7dd59283-e865-44f4-b137-88bd74cae49c.jpg)
+[PAYMENT PAGE](
 
 
 
