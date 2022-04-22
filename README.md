@@ -23,7 +23,7 @@ Desktop Web application with phpmyadmin MySQL Server database.
 
 ![SERVICE REQUEST PAGE](https://user-images.githubusercontent.com/77150491/164754377-e3f0195c-23dc-444b-ac73-b71bade99fda.jpg)
 
-![APPOINTMENT PAGE](https://user-images.githubusercontent.com/77150491/164754624-2947b9fe-3b84-462e-97d7-cb627c1b3f80.jpg)
+![APPOINTMENT PAGE](https://user-images.githubusercontent.com/77150491/164755468-396c028f-73b7-4015-b64e-e839f05c4430.jpg)
 
 ![ORDER PAGE](https://user-images.githubusercontent.com/77150491/164754624-2947b9fe-3b84-462e-97d7-cb627c1b3f80.jpg)
 
